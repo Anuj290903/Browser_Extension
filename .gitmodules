@@ -1,0 +1,3 @@
+[submodule "Browser_Extension"]
+	path = Browser_Extension
+	url = https://github.com/Anuj290903/Proxy_Server.git
